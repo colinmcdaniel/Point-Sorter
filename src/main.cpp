@@ -105,7 +105,7 @@ int main() {
     // Print introduction and instructions to screen
     cout << "Welcome to Point Printer! You can create three different kinds of points:\n\n";
     cout << "1. Point2D, e.g., (2,6.5)\n2. ColorPoint2D, e.g., blue(-4.5,3.5)\n3. WeightedPoint2D, e.g., .12(3.6,8.7)\n\n";
-    cout << "Enter 0 when you are finished.\n\n";
+    cout << "Enter 0 when you are finished. (Please use only lowercase letters!)\n\n";
     
     // Variables necessary for user inputting
     int selection = 1;
