@@ -20,4 +20,4 @@ This program uses polymorphism to store a vector of pointers to Point2D objects,
 1. Clone or download the repository.
 2. Either simply run the Unix executable file, or compile the source code yourself and run.
 
-
+![pointsorter](https://cloud.githubusercontent.com/assets/18273101/22318054/67139778-e32c-11e6-9cf5-bafbd0ff16dc.gif)
